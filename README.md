@@ -9,7 +9,3 @@ yarn
 yarn start
 ```
 
-#### Tests
-```
-yarn test
-```
